@@ -22,7 +22,6 @@ import os
 
 from setuptools import setup
 
-readme = open('README.rst').read()
 history = open('CHANGES.rst').read()
 
 tests_require = [
